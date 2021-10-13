@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item type="id" name="mRecyclerView" />
+    <item type="id" name="titleBar" />
+    <item type="id" name="tvRefresh" />
+
+    <item type="id" name="x_state_loading" />
+    <item type="id" name="x_state_btn" />
+    <item type="id" name="x_state_tv" />
+    <item type="id" name="x_state_iv" />
+    <item type="id" name="x_state_layout" />
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="TitleBar">
+        <attr name="whiteStyle" format="boolean" />
+        <attr name="showRight" format="boolean" />
+        <attr name="showLeft" format="boolean" />
+        <attr name="centreTitle" format="reference|string" />
+        <attr name="leftTitle" format="reference|string" />
+        <attr name="rightTitle" format="reference|string" />
+        <attr name="barBg" format="reference|color|integer" />
+        <attr name="leftDrawable" format="reference|integer" />
+        <attr name="rightDrawable" format="reference|integer" />
+    </declare-styleable>
+
+    <declare-styleable name="ValueView">
+        <attr name="valueText" format="reference|string" />
+        <attr name="valueHintText" format="reference|string" />
+        <attr name="valueHintColor" format="reference|color" />
+        <attr name="valueTextColor" format="reference|color" />
+        <attr name="valueImg" format="reference|integer" />
+        <attr name="keyImgSizes" format="dimension" /><!--drawable的大小-->
+        <attr name="keyText" format="reference|string" />
+        <attr name="ketTextColor" format="reference|color" />
+        <attr name="keyImg" format="reference|integer" />
+
+    </declare-styleable>
+
+
+    <declare-styleable name="StateLayout">
+        <attr name="state_layout" format="reference" />
+        <attr name="state_emptyDrawable" format="reference" />
+        <attr name="state_netErroDrawable" format="reference" />
+    </declare-styleable>
+
+
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#25be9f</color>
+    <color name="colorPrimaryDark">#25be9f</color>
+    <color name="colorAccent">#25be9f</color>
+
+    <color name="white">#ffffff</color>
+
+    <color name="color_2f2f2f">#2f2f2f</color>
+    <color name="anhei">@color/color_2f2f2f</color>
+
+    <color name="heise">#FF000000</color>
+    <color name="huise">#9f9fa9</color>
+
+    <color name="x_titlebar_normal_color">#FF000000</color>
+    <color name="x_titlebar_hold_color">#ce000000</color>
+    <color name="x_titlebar_line_color">#80c8c8c8</color>
+
+    <color name="x_line_color">#dddddd</color>
+
+    <color name="x_item_color_hold">#f1f1f1</color>
+    <color name="x_item_color_normal">@color/white</color>
+
+    <color name="x_window_color">#FFffffff</color>
+    <color name="x_btn_normal">#D81B60</color>
+    <color name="x_btn_press">#99D81B60</color>
+    <color name="x_state_text_color">#999999</color>
+</resources>

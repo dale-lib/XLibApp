@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">XCommon</string>
+    <string name="state_no_data" translatable="false">暂无数据</string>
+    <string name="state_net_error" translatable="false">加载失败，请检查网络后重试</string>
+    <string name="state_retry" translatable="false">重试</string>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/work/project/LibApp/XCommon/src/main/res/drawable/x_corner_btn_normal.xml" value="0.1" />
+        <entry key="..\:/work/project/LibApp/XCommon/src/main/res/drawable/x_corner_btn_press.xml" value="0.1" />
+        <entry key="..\:/work/project/LibApp/XCommon/src/main/res/drawable/x_item_select_bg.xml" value="0.1" />
+        <entry key="..\:/work/project/LibApp/XCommon/src/main/res/drawable/x_oval_red_main.xml" value="0.1" />
+        <entry key="..\:/work/project/LibApp/XCommon/src/main/res/drawable/x_right_arraw.xml" value="0.1" />
+        <entry key="..\:/work/project/LibApp/XCommon/src/main/res/drawable/x_state_btn_select.xml" value="0.1" />
+        <entry key="..\:/work/project/LibApp/XCommon/src/main/res/drawable/x_title_bg.xml" value="0.1" />
+        <entry key="..\:/work/project/LibApp/XCommon/src/main/res/drawable/x_titlebar_back_arraw.xml" value="0.1" />
+        <entry key="..\:/work/project/LibApp/XCommon/src/main/res/layout/x_activity_alpha_refresh.xml" value="0.22604166666666667" />
+        <entry key="..\:/work/project/LibApp/XCommon/src/main/res/layout/x_activity_main.xml" value="0.22604166666666667" />
+        <entry key="..\:/work/project/LibApp/XCommon/src/main/res/layout/x_activity_refresh.xml" value="0.22604166666666667" />
+        <entry key="..\:/work/project/LibApp/XCommon/src/main/res/layout/x_activity_tab_main.xml" value="0.22604166666666667" />
+        <entry key="..\:/work/project/LibApp/XCommon/src/main/res/layout/x_activity_webview.xml" value="0.22604166666666667" />
+        <entry key="..\:/work/project/LibApp/XCommon/src/main/res/layout/x_item_home_tabhost.xml" value="0.22604166666666667" />
+        <entry key="..\:/work/project/LibApp/XCommon/src/main/res/layout/x_pager_navigator_layout.xml" value="0.21302083333333333" />
+        <entry key="..\:/work/project/LibApp/XCommon/src/main/res/layout/x_pager_navigator_layout_no_scroll.xml" value="0.21302083333333333" />
+        <entry key="..\:/work/project/LibApp/XCommon/src/main/res/layout/x_refresh_layout.xml" value="0.22604166666666667" />
+        <entry key="..\:/work/project/LibApp/XCommon/src/main/res/layout/x_smartrefresh_layout.xml" value="0.22604166666666667" />
+        <entry key="..\:/work/project/LibApp/XCommon/src/main/res/layout/x_state_layout.xml" value="0.22604166666666667" />
+        <entry key="..\:/work/project/LibApp/XCommon/src/main/res/layout/x_toolbar_layout.xml" value="0.22604166666666667" />
+        <entry key="..\:/work/project/LibApp/XCommon/src/main/res/layout/x_value_item_layout.xml" value="0.22604166666666667" />
+        <entry key="..\:/work/project/LibApp/XCommon/src/main/res/layout/x_view_titlebar.xml" value="0.22604166666666667" />
+        <entry key="..\:/work/project/LibApp/XCommon/src/main/res/layout/x_web_error_page.xml" value="0.22604166666666667" />
+        <entry key="..\:/work/project/LibApp/XCommon/src/main/res/layout/x_web_refresh.xml" value="0.22604166666666667" />
+        <entry key="..\:/work/project/LibApp/Xpopup/src/main/res/layout/_xpopup_adapter_text.xml" value="0.20677083333333332" />
+        <entry key="..\:/work/project/LibApp/Xpopup/src/main/res/layout/_xpopup_adapter_text_match.xml" value="0.20677083333333332" />
+        <entry key="..\:/work/project/LibApp/app/src/main/res/layout/activity_main.xml" value="0.20677083333333332" />
+        <entry key="..\:/work/project/LibApp/app/src/main/res/layout/item_adapter_test.xml" value="0.22291666666666668" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

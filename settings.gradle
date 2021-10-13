@@ -1,0 +1,35 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+    plugins {
+        id 'com.android.application' version '7.1.0-alpha06'
+        id 'com.android.library' version '7.1.0-alpha06'
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+//        maven { url 'http://maven.aliyun.com/nexus/content/groups/public/' }
+//        maven { url 'http://maven.aliyun.com/nexus/content/repositories/jcenter' }
+//        maven { url 'https://jitpack.io' }
+        google()
+        mavenCentral()
+        maven { url 'https://jitpack.io' }
+    }
+}
+rootProject.name = "XLibApp"
+include ':app'
+
+include ':XUtilsLib'
+//project(':XUtils').projectDir = new File('../common/XUtils')
+include ':XDialogLib'
+include ':XBaseAdapterLib'
+include ':XRefreshLib'
+include ':XGlideLib'
+include ':XNetLib'
+include ':XFragmentLib'
+include ':XCommon'
+include ':XRoomLib'
